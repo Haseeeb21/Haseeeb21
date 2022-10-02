@@ -3,10 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23c8be55&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Pythonista"></a>
 </p>
 
-- 🧑‍🎓 I am a 3rd-year Computer Science undergrad at [Institute of Space Technology](https://www.ist.edu.pk/).
-- 👀 I’m interested in 'Data Science', 'Machine Learning', and Artificial Intelligence.
+- 🧑‍🎓 I am a 3rd-year `Computer Science` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/).
+- 👀 I’m interested in `Data Science`, `Machine Learning`, and `Artificial Intelligence`.
 - 🌱 I’m currently learning to learn.
-- 👯 I’m currently exploring and getting to know Github.
+- 👯 I’m currently exploring and getting to know `Github`.
 - 📫 How to reach me => haseeb.zahid021@gmail.com <=
 
 ### Languages
