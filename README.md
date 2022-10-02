@@ -22,7 +22,7 @@
 <a href="https://www.instagram.com/haseeb._.zahid/">
   <img align="left" alt="Haseeb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="[www.linkedin.com/in/haseeb-ul-hassan-/](https://www.linkedin.com/in/haseeb-ul-hassan-/)">
+<a href="www.linkedin.com/in/haseeb-ul-hassan-/">
   <img align="left" alt="Haseeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Haseeebzahid">
