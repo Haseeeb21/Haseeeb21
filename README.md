@@ -4,7 +4,7 @@
 </p>
 
 - 🧑‍🎓 I am a Final year `Computer Science` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/).
-- 👀 I’m interested in `Data Science`, `Machine Learning`, and `Artificial Intelligence`.
+- 👀 I’m interested in `Data Science`, `Machine Learning`, `Artificial Intelligence`, and `Computer Vision`.
 - 🌱 I’m currently learning to learn.
 - 👯 I’m currently exploring and getting to know `Github`.
 - 📫 How to reach me => haseeb.zahid021@gmail.com <=
