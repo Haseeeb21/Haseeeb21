@@ -5,13 +5,18 @@
 </p> -->              
       
        
-- 🧑‍🎓 I am a Final year `Computer Science` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/) .   
-- 👀 I’m interested in `Data Science`, `Machine Learning`, `Artificial Intelligence`, and `Computer Vision`.        
-- 🌱 I’m currently learning to learn the above concepts.              
-- 👯 I’m currently exploring and getting to know `Github`. 
-- 📫 Reach me => haseeb.zahid021@gmail.com <= 
+- 🧑‍🎓 Final year `Computer Science` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/) .   
+- 👀 I’m interested in `Data Science`, `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
+- 🌱 I’m currently working on `Deep Learning` for custom `CNN`.              
+- 👯 I’m currently exploring `ultralytics` & `YOLOv8`. 
+- 📫 Reach me -> haseeb.zahid021@gmail.com <-
     
  
+### FYP (Final Year Project)
+
+- Brain Tumor Classification for Healthcare services
+- Developing custom CNN model architecture
+- Research Writing (Journal)
 
 
 ### Languages 
