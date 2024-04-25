@@ -7,8 +7,8 @@
        
 - 🧑‍🎓 Final year `Computer Science` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/) .   
 - 👀 I’m interested in `Data Science`, `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
-- 🌱 I’m currently working on `Deep Learning` for custom `CNN`.              
-- 👯 I’m currently exploring `ultralytics` & `YOLOv8`. 
+- 🌱 Currently working on `Deep Learning` for custom `CNN`.              
+- 👯 Currently exploring `ultralytics` & `YOLOv8`. 
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
     
  
