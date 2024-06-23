@@ -12,7 +12,7 @@
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
     
  
-### FYP (Final Year Project)
+### FYP (Final Year Project) 
 
 - Brain Tumor Classification for Healthcare services
 - Developing custom CNN model architecture
