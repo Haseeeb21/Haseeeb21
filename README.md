@@ -2,7 +2,7 @@
 <p align="center">           
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?         
  font=Time+New+Roman&color=%23c8be55&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Dimagh+Na+Khrbb+Kr;Pythonista;OMG WOW" ></a>    
-</p> -->               
+</p> -->              
   
         
 - 🧑‍🎓 Final year `Computer Science` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/) .   
