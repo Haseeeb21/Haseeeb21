@@ -17,7 +17,7 @@
 - Brain Tumor Classification for Healthcare services
 - Developing custom CNN model architecture
 - Classification of four classes
-- Writing Research Paper (Journal)
+- Writing Research Paper Journal
 
 
 ### Languages 
