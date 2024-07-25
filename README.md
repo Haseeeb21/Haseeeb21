@@ -5,9 +5,9 @@
 </p> -->              
   
         
-- 🧑‍🎓 `Computer Scientist` undergrad at [Institute of Space Technology](https://www.ist.edu.pk/) .   
-- 👀 I’m interested in `Data Science`, `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
-- 🌱 Currently working on `Deep Learning` for developing custom `CNN`.              
+- 🧑‍🎓 `Computer Scientist`    
+- 👀 `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
+- 🌱 `Deep Learning` expert in Deep Neural Networks specifically `CNN`, Experienced in Training and Hyperparameter tuning of the model.    
 - 👯 Currently exploring `ultralytics` & `YOLO`. 
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
     
@@ -15,8 +15,8 @@
 ### FYP (Final Year Project) 
 
 - Brain Tumor Classification for Healthcare services
-- Developing custom CNN model architecture
-- Classification of four classes
+- Developed custom CNN model architecture
+- Desktop Application that classifies Brain Tumor into four classes
 - Journal Writing
 
 
