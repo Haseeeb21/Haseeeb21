@@ -4,7 +4,7 @@
  font=Time+New+Roman&color=%23c8be55&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Dimagh+Na+Khrbb+Kr;Pythonista;OMG WOW" ></a>    
 </p> -->              
 
- 
+
         
 - 🧑‍🎓 `Computer Scientist`    
 - 👀 `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
