@@ -10,8 +10,6 @@
 - 🌱 `Deep Learning` expert in Deep Neural Networks specifically `CNN`, Experienced in Training and Hyperparameter tuning of the model.    
 - 👯 Currently exploring `ultralytics` & `YOLO`. 
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
-
-
   
  
 ### FYP (Final Year Project) 
