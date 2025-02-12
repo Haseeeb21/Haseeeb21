@@ -24,7 +24,7 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/haseeeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haseeeb21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haseeeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haseeeb21" height="30" width="40" /></a>
 <a href="https://instagram.com/haseeb._.zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseeb._.zahid" height="30" width="40" /></a>
 <a href="https://medium.com/@haseeeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haseeeb21" height="30" width="40" /></a>
 </p>
