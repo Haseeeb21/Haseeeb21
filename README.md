@@ -18,7 +18,7 @@
 - Brain Tumor Classification for Healthcare services
 - Developed custom CNN model architecture
 - Desktop Application that classifies Brain Tumor into four classes
-- Journal Writing
+- Journal Writing (Research)
 
 
 
