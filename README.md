@@ -10,6 +10,7 @@
 - 👯 Currently exploring `ultralytics` & `YOLO`.
 - 💬 Ask me about **CNN**
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
+
   
  
 ### FYP (Final Year Project) 
