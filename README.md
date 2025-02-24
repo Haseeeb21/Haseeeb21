@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseeeb21&label=Profile%20views&color=0e75b6&style=flat" alt="haseeeb21" /> </p>
 
-        
+
 - 🧑‍🎓 `Computer Scientist`    
 - 👀 `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
 - 🌱 `Deep Learning` expert in Deep Neural Networks specifically `CNN`, Experienced in Training and Hyperparameter tuning of the model.    
