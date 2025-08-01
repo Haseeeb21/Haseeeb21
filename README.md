@@ -5,7 +5,7 @@
 
 - 👀 `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
 - 🌱 `Deep Learning` expert in Deep Neural Networks specifically `CNN`, Experienced in Training and Hyperparameter tuning of the model.    
-- 👯 Currently exploring `ultralytics` & `YOLO`.
+- 👯 Currently exploring `ultralytics` & `AWS`.
 - 💬 Ask me about **CNN**
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
 
