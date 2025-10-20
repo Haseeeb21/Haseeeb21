@@ -8,7 +8,6 @@
 - 👯 Currently exploring `ultralytics` & `AWS`.
 - 💬 Ask me about **CNN**
 - 📫 Reach me -> haseeb.zahid021@gmail.com <-
-
   
 ### Connect with me
 <p align="left">
