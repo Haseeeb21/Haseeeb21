@@ -1,55 +1,104 @@
-<h1 align="center">Hola 👋, I'm Haseeb</h1>
-<h3 align="center">Machine Learning Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haseeeb21&label=Profile%20views&color=0e75b6&style=flat" alt="haseeeb21" /> </p>
-
-- 👀 `Machine Learning`, `Artificial Intelligence`,  `Deep Learning`, and `Computer Vision`.        
-- 🌱 `Deep Learning` expert in Deep Neural Networks specifically `CNN`, Experienced in Training and Hyperparameter tuning of the model.    
-- 👯 Currently exploring `ultralytics` & `AWS`.
-- 💬 Ask me about **CNN**
-- 📫 Reach me -> haseeb.zahid021@gmail.com <-
-
-### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/haseeeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/haseeeb21" height="30" width="40" /></a>
-<a href="https://instagram.com/haseeb._.zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseeb._.zahid" height="30" width="40" /></a>
-<a href="https://medium.com/@haseeeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haseeeb21" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=Haseeb+Ul+Hassan;AI+%2F+Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+AI+products+that+ship+real+impact" alt="Typing SVG" />
 </p>
 
-### Languages 
+<p align="center">
+  <a href="https://github.com/Haseeeb21?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://haseeeb-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/haseeeb21/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:haseeb.zahid021@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+---
 
+### Hi, I'm Haseeb 👋
 
+AI / Machine Learning Engineer based in Riyadh, Saudi Arabia. I build practical AI systems across **Computer Vision, NLP, and Generative AI**—from model fine-tuning and OCR pipelines to end-to-end forecasting and automation products.
 
-### Tools
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I currently work at **VisionX**, where I help deliver client-facing AI solutions, automate data workflows, and ship production-ready ML systems that create measurable impact. One of my key builds, **ForecastIQ**, helped replace manual spreadsheet planning and saved **$100K+ annually** while reducing operational overhead.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseeeb21&show_icons=true&locale=en" alt="haseeeb21" /></p>
+---
 
+### What I do best
 
+- Building end-to-end ML pipelines that go from data to deployment
+- Fine-tuning CV and NLP models for real-world use cases
+- Automating repetitive business workflows with AI
+- Designing FastAPI-based services and deployable AI tools
+- Working with teams to ship production features quickly and cleanly
 
+---
 
-<!---
-### Social
+### Tech stack
 
-<a href="https://www.instagram.com/haseeb._.zahid/">
-  <img align="left" alt="Haseeb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/haseeb-ul-hassan-/">
-</a>
-<a href="https://twitter.com/Haseeebzahid">
-</a>
+**Languages:** Python, C++, SQL  
+**AI / ML:** PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain  
+**Computer Vision:** YOLO, Ultralytics, OpenCV, Roboflow, PaddleOCR, LayoutLMv3  
+**MLOps / Backend:** FastAPI, Docker, AWS, Git, Linux, Weights & Biases, n8n  
+**Data:** Pandas, NumPy
 
+---
 
-<!---
-Haseeeb21/Haseeeb21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Featured work
+
+**ForecastIQ**  
+An end-to-end demand forecasting and planning pipeline that centralized inputs, automated daily processing, and removed manual spreadsheet work. It saved **$100K+ annually** in labor and helped reduce excess inventory.
+
+**Automated Book Spine Detection & Information Extraction**  
+A CV + NLP pipeline to extract and classify information from book spine images using OCR, custom YOLO OBB detection, and NER-based classification.
+
+**NORO AI**  
+An AI assistant with live market data integration, configurable web search, and Telegram bot support for mobile access and rapid market research.
+
+**Brain Tumor Classification**  
+A healthcare-focused deep learning project using custom CNNs, preprocessing, augmentation, and hyperparameter tuning for improved performance.
+
+---
+
+### Experience snapshot
+
+**Junior Machine Learning Engineer — VisionX**  
+- Develop custom AI/ML solutions for enterprise clients  
+- Fine-tune models and build data augmentation pipelines  
+- Lead ML initiatives across automation and deployment workstreams  
+- Mentor interns and support day-to-day execution  
+- Manage and update APIs for ongoing AI services  
+
+**Machine Learning Intern — VisionX**  
+- Trained PaddleOCR detection models  
+- Fine-tuned LayoutLMv3 for document understanding tasks  
+- Worked on detection/segmentation workflows and Android integrations  
+
+---
+
+### Education & certifications
+
+**B.S. in Computer Science**  
+Institute of Space Technology (IST), Islamabad  
+CGPA: **3.77 / 4.0** — Presidential Gold Medalist
+
+**Selected certifications**
+- IBM — Building Deep Learning Models with TensorFlow
+- IBM — Introduction to Deep Learning & Neural Networks with Keras
+- IBM — Python for Data Science, AI & Development
+- DeepLearning.AI — AI For Everyone
+
+---
+
+### Let’s connect
+
+- Portfolio: https://haseeeb-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/haseeeb21/
+- GitHub: https://github.com/Haseeeb21
+- Email: haseeb.zahid021@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haseeeb21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Haseeeb21&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haseeeb21&theme=flat&no-frame=true&margin-w=8" alt="GitHub trophies" />
+</p>
