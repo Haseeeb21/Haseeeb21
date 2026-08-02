@@ -273,6 +273,8 @@ Hands-on foundation in document AI, OCR, and computer vision model benchmarking.
 
 <div align="center">
 
+![Haseeb's stats](https://github-stats-extended.vercel.app/api?username=haseeeb21)
+
 <img src="https://github-profile-trophy.vercel.app/?username=Haseeeb21&theme=radical&no-frame=true&margin-w=10&column=7" />
 
 </div>
