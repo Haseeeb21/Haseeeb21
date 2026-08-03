@@ -175,34 +175,10 @@ Delivered an automated image-based cataloging and data-extraction system for a m
 
 <h2 align="left">💼 Experience</h2>
 
-**AI/ML Engineer @ VisionX**
-`Nov 2024 — Present · New York, USA (Remote)`
+**AI / ML Engineer @ VisionX**
+`Aug 2024 — Present · New York, USA (Remote)`
 
-Leading ML initiatives across forecasting, automation, and generative AI deployment workstreams for enterprise clients.
-
-- Designed, built, and deployed **ForecastIQ** end-to-end, saving **$200K+ annually** in labor and reducing excess inventory
-- Improved a production computer vision detection model via targeted data augmentation and hyperparameter tuning, shipping a version faster and more accurate than the deployed baseline
-- Delivered an automated image-based cataloging and data-extraction system combining custom YOLO-OBB, OCR, and LLM-based classification for a major US enterprise client
-- Lead ongoing ML initiatives across forecasting, automation, and deployment; mentor a team of ML interns through daily standups and weekly demos
-- Integrated generative AI workflows (LLM prompt engineering, OpenAI & Google Gemini SDKs) into internal tools and client deliverables
-
-`Python` `PyTorch` `YOLO` `OCR` `FastAPI` `Docker` `OpenAI API` `Google Gemini` `LangChain` `MLflow`
-
-<br/>
-
-**Machine Learning Intern @ VisionX**
-`Aug 2024 — Oct 2024 · Islamabad, Pakistan`
-
-Hands-on foundation in document AI, OCR, and computer vision model benchmarking.
-
-- Trained a **PaddleOCR** detection model on a custom-labeled dataset, improving text detection performance
-- Fine-tuned **LayoutLMv3** for document sequence classification, tuning batch size and learning rate for accuracy gains
-- Trained and benchmarked detection vs. segmentation models, converted label formats and applied augmentation to improve generalization
-- Developed Android applications integrating computer vision models for on-device detection and segmentation
-
-`PaddleOCR` `LayoutLMv3` `PyTorch` `Computer Vision` `Android`
-
-<br/>
+Leading ML initiatives across Forecasting, Automation, Computer Vision, and Generative AI deployment workstreams for enterprise clients.
 
 ---
 
