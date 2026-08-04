@@ -176,7 +176,7 @@ Delivered an automated image-based cataloging and data-extraction system for a m
 <h2 align="left">💼 Experience</h2>
 
 **AI / ML Engineer @ VisionX**
-`Aug 2024 — Present · New York, USA (Remote)`
+`Aug 2024 — Aug 2026 · New York, USA (Remote)`
 
 Leading ML initiatives across Forecasting, Automation, Computer Vision, and Generative AI deployment workstreams for enterprise clients.
 
