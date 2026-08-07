@@ -219,7 +219,7 @@ Leading ML initiatives across Forecasting, Automation, Computer Vision, and Gene
 
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/haseeeb"><img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
