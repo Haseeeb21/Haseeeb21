@@ -136,23 +136,6 @@ Built a flexible-horizon (24–54 week) SKU-level forecasting pipeline with a Py
 </details>
 
 <details>
-<summary><b>📚 Automated Book Spine Detection & Metadata Extraction</b></summary>
-<br/>
-
-End-to-end CV + OCR + NLP/LLM pipeline built around a custom **YOLO-OBB** model for rotated book-spine detection, multi-backend OCR (Tesseract, EasyOCR, Google Cloud Vision), and a custom **NER model** for structured field classification — refined via LLM post-processing and prompt engineering. Deployed as a Streamlit application with engineered pipeline caching to eliminate redundant detection runs.
-
-| Aspect | Details |
-|:--|:--|
-| **Stack** | YOLO-OBB, OpenCV, Tesseract / EasyOCR / Google Cloud Vision, Custom NER, LLM Post-processing, Streamlit |
-| **Scale** | Multi-object rotated detection with multi-backend OCR fallback |
-| **Performance** | Pipeline caching eliminates redundant detection on repeated interactions |
-| **Security** | Streamlit Community Cloud deployment, no persisted user data |
-| **Impact** | Automates structured metadata extraction from unstructured shelf imagery |
-| **Repository** | [github.com/Haseeeb21](https://github.com/Haseeeb21) |
-
-</details>
-
-<details>
 <summary><b>🏷️ Enterprise Image-Based Cataloging & Data Extraction System</b></summary>
 <br/>
 
