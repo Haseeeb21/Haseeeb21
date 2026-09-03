@@ -114,57 +114,6 @@ I care about the full lifecycle of an ML system - not just training a model, but
 
 <br/>
 
----
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-<details open>
-<summary><b>📦 ForecastIQ — Demand Planning & Forecasting Pipeline</b></summary>
-<br/>
-
-Built a flexible-horizon (24–54 week) SKU-level forecasting pipeline with a Python planning engine that applies business rules extracted from structured notes files to derive purchasing formulas for the client's procurement team. Deployed on a client-provisioned VM accessed over VPN, served via FastAPI with automated daily execution.
-
-| Aspect | Details |
-|:--|:--|
-| **Stack** | Python, FastAPI, Pandas, NumPy, PostgreSQL, Docker |
-| **Scale** | SKU-level forecasts across a 24–54 week flexible horizon |
-| **Performance** | Automated daily execution with scheduled pipeline runs |
-| **Security** | VPN-restricted access on a client-provisioned VM |
-| **Impact** | Replaced manual spreadsheet workflows — **$200K+ saved annually** in labor and reduced excess inventory |
-| **Repository** | *Private — Enterprise Client Deliverable* |
-
-</details>
-
-<details>
-<summary><b>🏷️ Enterprise Image-Based Cataloging & Data Extraction System</b></summary>
-<br/>
-
-Delivered an automated image-based cataloging and data-extraction system for a major US enterprise client, combining a custom-trained **YOLO-OBB** model, OCR, and **LLM-based classification** to reduce manual entry and improve data accuracy.
-
-| Aspect | Details |
-|:--|:--|
-| **Stack** | YOLO-OBB, OCR, LLM Classification, Python |
-| **Scale** | Enterprise-level cataloging workflow for a major US client |
-| **Performance** | Reduced manual entry time via automated extraction |
-| **Security** | Client-managed enterprise deployment |
-| **Impact** | Improved cataloging data accuracy and reduced manual workload |
-| **Repository** | *Private — Enterprise Client Deliverable* |
-
-</details>
-
-<br/>
-
----
-
-<h2 align="left">💼 Experience</h2>
-
-**AI / ML Engineer @ VisionX**
-`Aug 2024 — Aug 2026 · New York, USA (Remote)`
-
-Leading ML initiatives across Forecasting, Automation, Computer Vision, and Generative AI deployment workstreams for enterprise clients.
-
----
-
 <h2 align="left">🏆 Achievements</h2>
 
 <div align="center">
