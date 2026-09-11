@@ -130,36 +130,6 @@ I care about the full lifecycle of an ML system - not just training a model, but
 
 ---
 
-<h2 align="left">📜 Certifications</h2>
-
-<h4>DeepLearning.AI</h4>
-<img src="https://img.shields.io/badge/Deep%20Learning%20with%20TensorFlow%20%26%20Keras-4C1D95?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Supervised%20ML%3A%20Regression%20%26%20Classification-6D28D9?style=flat-square&logo=deeplearningdotai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20For%20Everyone-7C3AED?style=flat-square&logo=deeplearningdotai&logoColor=white" />
-<img src="https://img.shields.io/badge/Intro%20to%20DL%20%26%20Neural%20Networks%20with%20Keras-8B5CF6?style=flat-square" />
-
-<h4>IBM</h4>
-<img src="https://img.shields.io/badge/Python%20for%20Data%20Science%2C%20AI%20%26%20Development-4C1D95?style=flat-square&logo=ibm&logoColor=white" />
-
-<br/>
-
----
-
-<h2 align="left">💻 Coding Profiles</h2>
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/haseeeb"><img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
----
-
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="center">
